@@ -4,7 +4,8 @@
 .carousel-item img{
     min-height: 50vh;
     position: absolute;
-    object-fit:cover;
+    object-fit: cover;
     top: 0;
     left: 0;
+    margin-top: -10%;
 }
