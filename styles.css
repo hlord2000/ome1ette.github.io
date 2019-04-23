@@ -1,11 +1,11 @@
 .carousel-item{
-    height: 50vh;
+    height: 52vh;
 } 
 .carousel-item img{
-    min-height: 50vh;
+    min-height: 52vh;
     position: absolute;
     object-fit: cover;
     top: 0;
     left: 0;
-    margin-top: -10%;
+    margin-top: 0%;
 }
